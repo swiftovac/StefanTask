@@ -1,0 +1,6 @@
+framework module Pods_StefanTask {
+  umbrella header "Pods-StefanTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
